@@ -1,6 +1,6 @@
 ### Oiee! Eu me chamo Sarah Freire e sou aluna da Ilum Escola de Ciência!
 
-- 🔭 Estou trabalhando em um projeto de WebScrapping  e Análise de Dados
+- 🔭 Estou trabalhando em um projeto de Machine Learning e Inteligência Artificial
 - 🌱 Estudando Ciência de Dados
 - 😄 Pronouns: ela/dela
 
