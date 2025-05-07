@@ -1,6 +1,6 @@
-### Oiee! Eu me chamo Sarah Freire e sou aluna da Ilum Escola de Ciência!
+### Oiee! Eu me chamo Sarah Freire e sou formada na Ilum Escola de Ciência!
 
-- 🔭 Estou trabalhando em um projeto de Machine Learning e Inteligência Artificial
+- 🔭Trabalhando em projetos de Machine Learning e Inteligência Artificial
 - 🌱 Estudando Ciência de Dados
 - 😄 Pronouns: ela/dela
 
