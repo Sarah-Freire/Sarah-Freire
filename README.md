@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Cientista de Dados em Saúde | Bacharel em Ciência e Tecnologia</em><br>
-  <strong>Mestranda no Computer Systems Biology Laboratory(CSBL) INOVA USP, pelo pela faculdade de Ciências da Saúde do Hospital Albert Einstein</strong>
+  <strong>Mestranda no Computer Systems Biology Laboratory(CSBL) INOVA USP, pela Faculdade de Ciências da Saúde do Hospital Israelita Albert Einstein</strong>
 </p>
 
 ---
